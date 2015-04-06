@@ -1,2 +1,7 @@
-# hello-world
-First repository in github
+hello-world
+===========
+
+Hi All!
+
+This is Vara, I created this repository to learn github.
+
